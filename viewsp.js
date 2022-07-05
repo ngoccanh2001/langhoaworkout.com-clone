@@ -1,0 +1,1 @@
+$("#hien-thi").load("viewsp.php");

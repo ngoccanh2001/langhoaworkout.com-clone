@@ -1,0 +1,1 @@
+$("#hien-thi").load("viewkh.php");
